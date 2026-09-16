@@ -429,7 +429,7 @@
     "message_title": "Message de feedback",
     "rating_title": "Comment l'événement vous a plu ?",
     "submit": "Soumettre le feedback",
-    "submit_failed": "Something went wrong during submitting. Please try again . . .",
+    "submit_failed": "Une erreur s'est produite pendant l'envoi. Veuillez réessayer...",
     "submit_in_progress": "Envoi...",
     "thank_you": "Merci de nous faire part de votre feedback pour {{ eventTitle }}."
   },
